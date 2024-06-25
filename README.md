@@ -29,7 +29,7 @@ Designed and launched my own website to showcase projects and share insights int
 
 ## Connect with Me
 
-Feel free to reach out on [Telegram](https://t.me/your_telegram_username) to discuss mathematics, programming, or collaborations.
+Feel free to reach out on [Telegram](https://t.me/LevKayumov) to discuss mathematics, programming, or collaborations.
 
 ## Get in Touch
 
