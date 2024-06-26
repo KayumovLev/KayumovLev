@@ -15,7 +15,7 @@ Developed a service for multiclass classification of handwritten digits, allowin
 
 ### Personal Website 🌐
 
-Designed and launched my own website to showcase projects and share insights into my interests in mathematics and informatics.
+Designed and launched my own website.
 
 ## Achievements and Contributions 🏆
 
