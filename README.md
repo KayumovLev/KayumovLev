@@ -9,7 +9,7 @@ Hello! I'm Lev Kayumov from Vladimir, Russia, a 15-year-old passionate about mat
 
 ## Projects
 
-- ### Real-Time Digit Classification Service 🖊️
+### Real-Time Digit Classification Service 🖊️
 
 Developed a service for multiclass classification of handwritten digits, allowing real-time drawing and recognition.
 
