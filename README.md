@@ -3,6 +3,12 @@
     <img src="https://i.pinimg.com/originals/64/05/31/6405318ac146473a95bfbdcec2b32943.gif" width="1000" height="500" />
 </div>
 
+<p align="center">
+    <a href="https://t.me/rndlabs">
+        <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+</p>
+
 ## About Me
 
 Hello! I'm Lev Kayumov from Vladimir, Russia, a 15-year-old passionate about mathematics and computer science, currently diving into Data Science with a focus on computer vision (CV).
