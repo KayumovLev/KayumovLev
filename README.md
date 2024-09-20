@@ -51,3 +51,10 @@ Feel free to reach out on [Telegram](https://t.me/LevKayumov) to discuss mathema
 ## Get in Touch
 
 I'm always eager to connect with fellow enthusiasts and professionals in the fields of mathematics, computer science, and Data Science. Let's chat!
+
+
+---
+
+### My Stats :fire: :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KayumovLev&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayumovLev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
