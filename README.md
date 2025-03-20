@@ -29,6 +29,7 @@ Designed and launched my own website to showcase my projects and interests.
 
 ## Achievements and Contributions 🏆
 - Silver medalist of AI Challenge 🥈
+- Finalist of the T1 Olympiad 🏅
 - Actively participated in numerous mathematics and computer science competitions.
 - Engaged in projects related to machine learning and data analysis.
 
