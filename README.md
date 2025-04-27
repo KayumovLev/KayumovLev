@@ -13,7 +13,7 @@
 
 ## About Me
 
-Hello! I'm **Lev Kayumov**, a **15-year-old** from Vladimir, Russia, passionate about **mathematics** and **computer science**. Currently, I’m diving into **Data Science** with a focus on **computer vision (CV)**.
+Hello! I'm **Lev Kayumov**, a **16-year-old** from Vladimir, Russia, passionate about **mathematics** and **computer science**. Currently, I’m diving into **Data Science** with a focus on **computer vision (CV)**.
 
 ---
 
@@ -30,6 +30,7 @@ Designed and launched my own website to showcase my projects and interests.
 ## Achievements and Contributions 🏆
 - Silver medalist of AI Challenge 🥈
 - Finalist of the T1 Olympiad 🏅
+- Finalist of the DLS Olympiad 🏅
 - Actively participated in numerous mathematics and computer science competitions.
 - Engaged in projects related to machine learning and data analysis.
 
